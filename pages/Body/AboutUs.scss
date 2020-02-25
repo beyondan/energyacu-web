@@ -1,0 +1,19 @@
+@import "../../pages-resources/styles/all";
+
+.AboutUs {
+  height: 500px;
+  border: 1px solid red;
+}
+
+.Slideshow {
+
+  img {
+    height: 500px;
+    object-fit: cover;
+  }
+}
+
+.StoreDescriptionGrid {
+  border: 1px solid blue;
+}
+
